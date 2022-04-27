@@ -1,3 +1,13 @@
+
+# ToDo-Project
+
+To Do page made in React, NPM packages used: "React-content-loader, React-Icons"
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
