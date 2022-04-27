@@ -5,11 +5,9 @@ import { TodoProvider } from "../TodoContext";
 
 
 function App() {
-  // const [patito, savePatito] = useLocalStorage('PATITO_V2', 'Mango')
 
 
   return (
-    // <p>{patito}</p>,
     <TodoProvider>
           <AppUI/>
     </TodoProvider>
